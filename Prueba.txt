@@ -1,0 +1,6 @@
+This is Camilo_Echeverry in his first autonomous practice at GitHub
+
+print('Hello world')
+
+If you == 'The best':
+	print('Succed')
